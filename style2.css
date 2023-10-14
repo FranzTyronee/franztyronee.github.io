@@ -1,0 +1,399 @@
+       *{
+         margin: 0;
+            padding: 0;
+        }
+        
+        html,body{
+            margin: 0;
+            padding: 0; 
+            width: auto; 
+            height: 100%;
+            
+        }
+        .lbr2114_caa_columbia_edu { 
+            top: 80px;
+            left: 125px;
+            width: 333px;
+            height: 46px;
+            overflow: hidden;
+            font-family: "Andes Rounded W03 Bold";
+            font-size: 14px;
+            text-align: left;
+            color:#00A3FF;
+            position: relative;
+        }
+        .imagew{
+          width: 100%;
+       
+        }
+        .image1 {
+          position: relative;
+             width: 166px;
+            height: 174px;
+            margin-top: 200px;
+            bottom: 50px;
+            left: 160px;
+        }
+        .image2{
+            position: relative;
+            top: 50%;
+            left: 0%;
+            margin-bottom: -17px;
+            width: 100%;
+      
+            
+        }
+      
+        .home{
+            position: relative;
+            bottom: 70px;
+            left: 45px;
+            width: 50px;
+            height: 48px;
+            overflow: hidden;
+            font-family: "Andes Rounded W03 Bold";
+            font-size: 14px;
+            text-align: left;
+            
+            color:#00A3FF;
+          }
+        
+          .cv {
+            position: relative;
+            bottom: 119px;
+            left: 140px;
+            width: 86px;
+            height: 50px;
+            overflow: hidden;
+            font-family: "Andes Rounded W03 Bold";
+            font-size: 14px;
+            text-align: left;
+            
+            
+            color:#00A3FF;
+        }
+          .research {
+            position: relative;
+            bottom: 170px;
+            left: 220px;
+            width: 153px;
+            height: 48px;
+            overflow: hidden;
+            font-family: "Andes Rounded W03 Bold";
+            font-size: 14px;
+            text-align: left;
+            
+            color:#00A3FF;
+          }
+            .policy{
+            position: relative;
+            bottom: 219px;
+            left: 330px;
+            width: 153px;
+            height: 48px;
+            overflow: hidden;
+            font-family: "Andes Rounded W03 Bold";
+            font-size: 14px;
+            text-align: left;
+            
+            color:#000000;
+            }
+        
+            .limonbrodriguez {
+                position: relative;
+                bottom: 360px;
+                left: 125px;
+                width: 289px;
+                height: 30px;
+                overflow: hidden;
+                font-family: "Andes Rounded W03 Bold";
+                font-size: 20px;
+                text-align: left;
+                color:#000000;
+            }
+            .text{
+              width: 69%;
+              bottom: 550px;
+              left: 430px;
+              height: auto;
+              position: relative;
+              font-family: "Andes Rounded W03 Bold";
+              overflow: hidden;
+              padding: 10px;
+              
+            }
+
+           
+        .designed_by_tyrone_jez_de_ortega {
+            width: 50%;
+            height: 20px;
+            left: 700px;
+            bottom: 470px;
+            overflow: hidden;
+            font-family: "Andes Rounded W03 Bold";
+            font-size: 16px;
+            text-align: right;
+            color:#000000;
+            position: relative;
+        }
+        @media (max-width:  1200px) {
+    
+          .text{
+          
+            width: 75%;
+            bottom: 200px;
+            left: 70px;
+            height: auto;
+            position: relative;
+            font-family: "Andes Rounded W03 Bold";    
+            font-size: 14px;
+            text-align: center;
+          }
+        .imagew {
+          position: relative;
+          top: 100%;
+          left: 0%;
+          width: 100%;
+          height: 18px;
+          
+        }
+        .imageq{
+          position: relative;
+          top: 700px;
+          left: 0%;
+          width: 100%;
+          height: 18px;
+      }
+       
+      .image1 {
+        position: relative;
+        left: 350px;
+        bottom: 100px;
+        height: 240px;
+        width: 230px;
+      }
+        
+     
+        .lbr2114_caa_columbia_edu { 
+          top: -20px;  
+          width: 180px;
+          height: auto;
+          overflow: hidden;
+          font-family: "Andes Rounded W03 Bold";
+          font-size: 14px;
+          color:#00A3FF;
+          position: relative;
+          left: 340px;
+        }
+      
+        .limonbrodriguez {
+         
+          position: relative;
+          bottom: 370px;
+          width: 200px;
+          height: 30px;
+          overflow: hidden;
+          font-family: "Andes Rounded W03 Bold";
+          font-size: 20px;
+          text-align: center;
+          color:#000000;
+          left: 320px;
+    
+      }
+        .home{
+          position: relative;
+          bottom: 100px;
+          left: 100px;
+          width: 50px;
+          height: 48px;
+          overflow: hidden;
+          font-family: "Andes Rounded W03 Bold";
+          font-size: 14px;
+          text-align: left;
+          
+     
+        }
+      
+        .cv {
+          position: relative;
+          bottom: 148px;
+          left: 330px;
+          width: 86px;
+          height: 50px;
+          overflow: hidden;
+          font-family: "Andes Rounded W03 Bold";
+          font-size: 14px;
+          text-align: left;
+          
+          
+      
+      }
+        .research {
+          position: relative;
+          bottom: 198px;
+          left: 500px;
+          width: 153px;
+          height: 48px;
+          overflow: hidden;
+          font-family: "Andes Rounded W03 Bold";
+          font-size: 14px;
+          text-align: left;
+          
+    
+        }
+          .policy{
+          position: relative;
+          bottom: 247px;
+          left: 670px;
+          width: 50px;
+          height: 48px;
+          overflow: hidden;
+          font-family: "Andes Rounded W03 Bold";
+          font-size: 14px;
+          text-align: left;
+          
+        
+          }
+      
+        /* Adjust font size for the footer */
+        .designed_by_tyrone_jez_de_ortega {
+          font-size: 12px;
+          width: 90%;
+          left: 20px;
+          bottom: 48px;
+          text-align: right;
+          position: relative;
+          margin-bottom:100px;
+        }
+      }
+        @media (max-width: 800px){
+          .image1 {
+            position: relative;
+            left: 130px;
+            bottom: 120px;
+            height: 240px;
+            width: 230px;
+          }
+          .image2{
+            position: relative;
+            top: 50%;
+            left: 0%;
+            width: 100%;
+            height: auto;
+        }
+              .text{
+      
+                width: 75%;
+                bottom: 180px;
+                left: 40px;
+                height: auto;
+                position: relative;
+                font-family: "Andes Rounded W03 Bold";    
+                font-size: 14px;
+                text-align: justify;
+              }
+              .home{
+                position: relative;
+                bottom: 100px;
+                left: 40px;
+                width: 50px;
+                height: 48px;
+                overflow: hidden;
+                font-family: "Andes Rounded W03 Bold";
+                font-size: 14px;
+                text-align: left;
+                
+           
+              }
+            
+              .cv {
+                position: relative;
+                bottom: 148px;
+                left: 140px;
+                width: 86px;
+                height: 50px;
+                overflow: hidden;
+                font-family: "Andes Rounded W03 Bold";
+                font-size: 14px;
+                text-align: left;
+                
+                
+            
+            }
+              .research {
+                position: relative;
+                bottom: 198px;
+                left: 220px;
+                width: 153px;
+                height: 48px;
+                overflow: hidden;
+                font-family: "Andes Rounded W03 Bold";
+                font-size: 14px;
+                text-align: left;
+                
+          
+              }
+                .policy{
+                position: relative;
+                bottom: 247px;
+                left: 325px;
+                width: 50px;
+                height: 48px;
+                overflow: hidden;
+                font-family: "Andes Rounded W03 Bold";
+                font-size: 14px;
+                text-align: left;
+                
+              
+                }
+            
+                .lbr2114_caa_columbia_edu { 
+                  top: 15px;  
+                  width: 50%;
+                  height: 46px;
+                  overflow: hidden;
+                  font-family: "Andes Rounded W03 Bold";
+                  font-size: 16px;
+                  text-align: center;
+                  color:#00A3FF;
+                  position: relative;
+                  left:100px;
+                }
+              .limonbrodriguez {
+     
+                position: relative;
+                bottom: 370px;
+                width: 200px;
+                height: 30px;
+                overflow: hidden;
+                font-family: "Andes Rounded W03 Bold";
+                font-size: 20px;
+                text-align: center;
+                color:#000000;
+                left: 102px;
+        
+            }
+             
+        
+        .designed_by_tyrone_jez_de_ortega {
+            position: relative;
+            bottom: 5px;
+            left: -10px;
+            width: 100%;
+            text-align: right;
+            font-size: 12px;
+         
+          }
+        }
+        
+        @import url(https://db.onlinewebfonts.com/c/8d386a2806627ca543abfe371cc8aa1a?family=Andes+Rounded+W03+Bold);
+        @font-face {
+            font-family: "Andes Rounded W03 Bold";
+            src: url("https://db.onlinewebfonts.com/t/8d386a2806627ca543abfe371cc8aa1a.eot");
+            src: url("https://db.onlinewebfonts.com/t/8d386a2806627ca543abfe371cc8aa1a.eot?#iefix")format("embedded-opentype"),
+            url("https://db.onlinewebfonts.com/t/8d386a2806627ca543abfe371cc8aa1a.woff2")format("woff2"),
+            url("https://db.onlinewebfonts.com/t/8d386a2806627ca543abfe371cc8aa1a.woff")format("woff"),
+            url("https://db.onlinewebfonts.com/t/8d386a2806627ca543abfe371cc8aa1a.ttf")format("truetype"),
+            url("https://db.onlinewebfonts.com/t/8d386a2806627ca543abfe371cc8aa1a.svg#Andes Rounded W03 Bold")format("svg");
+        }
+        
